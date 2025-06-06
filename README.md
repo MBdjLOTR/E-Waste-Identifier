@@ -5,11 +5,17 @@ The app integrates with Google's machine learning APIs to provide real-time iden
 Key Features:
 
 Camera integration for instant e-waste capture
+
 CNN-powered image classification using Google ML Kit
+
 Real-time waste identification and categorization
+
 Detailed information retrieval for each identified item
+
 Disposal and recycling recommendations
+
 Environmental impact awareness
+
 User-friendly Flutter interface for cross-platform compatibility
 
 Perfect for environmentally conscious users, recycling centers, and organizations promoting sustainable e-waste management practices.
